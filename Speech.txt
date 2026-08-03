@@ -1,0 +1,31 @@
+Muy buenos días,
+
+Tengo el placer de compartirles el mock up de la aplicación web que servirá para que toda la ciudadanía pueda estar informada y actualizada del estado legal de los principales equipamentos que los diferentes establecimientos tienen para brindar el mejor servicio posible a la población en general.
+
+Empezaremos diciendo que hay pantallas o mock ups que son solo para las personas quie sean administradoras del sistema y otras que podrán de acceso publico, es decir para toda la población en general que desee consultar la información depositada allí en el sistema.
+
+La primera pantalla que quiero compartirles es la de Actualización de certificados, es esta:
+
+Aquí podemos cargar un archivo Excel con todos los certificados actualizados de los diferentes establecimientos. Este Excel puede contener información de actualización o la totalidad de la base de datos, lo anterior a convenir con quien sea el encargado de dictar las directrices en la implementación del proyecto productivo.
+
+Cabe aclarar que esta pantalla solo es demostrativa, y si se desea que este cargue de información sea automatizado para extraer la información desde otro sistemas, también puede hacerse sin ningún problema.
+
+La segunda pantalla es la de certificaciones en linea, en esta pantalla podremos observar un mapa donde se nos muestran las diferentes entidades con su razón social a lo largo y ancho del mapa, en este caso, si damos algún click en alguna de ellas, en la parte derecha nos muestra el estado de cada uno de los procesos de certificación que los diferentes equipos o dispositivos de medición de la empresa tiene, y también nos permite ver cuales certificados están vigentes, en proceso o vencidos. Todo lo anterior de manera interactiva y en linea, es decir, si un certificado ya esta subido en el sistema, una ves que este se vence el sistema automáticamente lo montrara en rojo. También es importante aclarar que la información es traida de la base de datos en linea, es decir, si se suben nuevos datos, en automatico, el sistema los actualizara en el mapa. Por ultimo, es importante mencionar que el mapa se ve en estos momentos con un fondo gris, puesto que la aplicación esta en etapa de desarrollo.
+
+MOSTRAR EXCEL
+
+El Excel que les estoy mostrando es un ejemplo que podría usarse como formato para dicho cargue de información.
+
+La siguiente pantalla que quiero compartirles es la de Notificaciones la cual, según se defina, puede ser PUBLICA para que cualquier ciudadano pueda verla, o solo de acceso para el personal administrativo, esto quedara a decisión de la persona que dicte las directrices en el proceso de desarrollo de la aplicación web.
+
+aquí podemos ver que el sistema nos avisa si tenemos un certificado de calibración que se vencio, si se negó la aprobación e calibración del mismo, los correos de notificación para las diferentes entidades que se envia una vez el certificado es cargado en el sistema, o incluso, cuando una carga o actualización de datos se ha realizado en el sistema, lo anterior con el objeto de mantener actualizada la información y los cambios que esta data tenga dentro del sistema, asi mismo como mantener al usuario al tanto de las actualizaciones, bien este sea administrativo o cualquier ciudadano.
+
+
+Cabe aclarar que el acceso al sistema para los ciudadanos seria publico y no necesitaría de ningún tipo de registro, mientras que para los usuarios administradores se implementara un sistema de login que puede integrarse con los sistemas de autenticación que se tengan en la alcaldía, por ejemplo el uso de active directory o de cualquier otro tipo de single sing on.
+
+Finalmente, toda el aspecto visual que se ha mostrado hasta ahora, es fruto de un desarrollo en etapa experimental, sin embargo, desde el equipo, sabemos que la apariencia final debe acogerse a los estándares de las paginas web de las instituciones publicas asociadas al proyecto, y por poner un ejemplo, no se ha querido usar el formato de la alcaldía de Pereira, para evitar inconvenientes legales, sin embargo, cualquier que fuera el formato deseado puede implementarse en la etapa de implementación del proyecto, por ejemplo el incluir las barras de navegación superiores o el footer que aquí estoy señalando.
+
+Les agradezco mucho su atención, y por favor, cualquier duda, inquietud o solicitud formal no dude en contactarnos.
+
+Esto fue hecho por Shadow Labs.
+

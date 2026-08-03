@@ -1,0 +1,17 @@
+{
+  "short_name": "Temperatura INVIMA",
+  "name": "Monitoreo de Temperatura INVIMA",
+  "description": "Bienvenida, monitoreo e histórico de sensores de temperatura de INVIMA.",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/inicio",
+  "display": "standalone",
+  "theme_color": "#0091B3",
+  "background_color": "#ffffff"
+}
