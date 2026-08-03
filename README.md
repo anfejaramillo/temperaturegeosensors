@@ -4,7 +4,7 @@ Aplicación demostrativa en español para consultar lugares, sensores y el estad
 
 La ruta raíz `/` y las direcciones desconocidas redirigen a `/inicio`.
 
-## Base técnica
+## Base técnica y frameworks utilizados
 
 - React 18.2.0
 - Material UI 5.12.3
