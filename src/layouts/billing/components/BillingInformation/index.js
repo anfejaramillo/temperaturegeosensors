@@ -150,7 +150,7 @@ function BillingInformation({ places, selectedPlaceId, onSelectPlace }) {
           }}
         >
           <GoogleMapReact
-            bootstrapURLKeys={{ key: "AIzaSyAXYEy8A4QGBYCQTIFB4JN3rQZkI1ybhW0" }}
+            bootstrapURLKeys={{ key: "" }}
             defaultCenter={defaultMapPosition.center}
             defaultZoom={defaultMapPosition.zoom}
           >
